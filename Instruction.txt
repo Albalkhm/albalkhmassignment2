@@ -1,0 +1,5 @@
+Important Instructions:
+1.Import jdbc_pet.sql by statement in MySql source ='jdbc_pet.mysql'
+
+2.import mysql-connector.jar aslo in your idea
+ENjoy
